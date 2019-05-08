@@ -75,15 +75,18 @@
 
 ## Watch Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AmDYRSQhAKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Placeholder](./_img/10.PNG)](https://youtu.be/AmDYRSQhAKU)
+
 
 ## Technologies
 
 * Unity - 2018.3
 
+
 ## Setup
 
 - Download game assets from [unity asset store](https://assetstore.unity.com/packages/templates/tutorials/the-great-fleece-110186)
+
 - Download `Assets Folder` and import it to your game
 
 ## Status
