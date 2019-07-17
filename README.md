@@ -93,7 +93,7 @@
 The game is made as a learning project
 
 ## Inspiration
-Project inspired by [The Ultimate Guide to Real World Applications with Unity](https://www.udemy.com/theultimate-guide-to-cinematography-with-unity/) udemy course
+Project inspired by [The Ultimate Guide to cinematography with unity](https://www.udemy.com/theultimate-guide-to-cinematography-with-unity/) udemy course
 
 ## Contact
 Created by [Mohamed Abdelnaby Elattar](https://www.linkedin.com/in/maaelattar) - feel free to contact me!
